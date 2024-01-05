@@ -95,14 +95,14 @@ article.imagem > p{
 
 
 article#img01{
-    background-image: url("../ProjSiteCordel/imagens/background001.jpg");
+    background-image: url("imagens/background001.jpg");
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
 }
 
 article#img02{
-    background-image: url("../ProjSiteCordel/imagens/background002.jpg");
+    background-image: url("imagens/background002.jpg");
     background-position: right center;
     background-size: cover;
     background-attachment: fixed;
